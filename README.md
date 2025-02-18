@@ -1,7 +1,6 @@
 原代码链接：**[Relation-Aware-Global-Attention-Networks](https://github.com/microsoft/Relation-Aware-Global-Attention-Networks)**  
 因为使用源代码在windows上运行大概率会报错，所以我修改了一些地方，添加了一些注释，方便理解  
-数据链接：我用夸克网盘分享了「行人重识别.zip」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
-链接：https://pan.quark.cn/s/b79f18d523c3
+数据链接：https://pan.quark.cn/s/b79f18d523c3  
 训练参数：  
 ```
 -a resnet50_rga
