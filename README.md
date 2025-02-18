@@ -1,6 +1,6 @@
 原代码链接：**[Relation-Aware-Global-Attention-Networks](https://github.com/microsoft/Relation-Aware-Global-Attention-Networks)**  
 因为使用源代码在windows上运行大概率会报错，所以我修改了一些地方，添加了一些注释，方便理解  
-数据链接：晚上回宿舍上传，着急的话可以自己去上面链接找，需要data数据和weights数据
+数据链接：晚上回宿舍上传，着急的话可以自己去上面链接找，需要data数据和weights数据  
 训练参数：  
 ```
 -a resnet50_rga
